@@ -1,0 +1,5 @@
+Le programme principale regroupe les 3 méthodes A,B,C et le jeu à l'aide d'un menu et de 4 boutons redirigeant vers ces fenêtres.
+
+Les sous-programmes sont les 4 programmes indépendants de chaque méthode et du jeu. 
+
+Pour jouer lancer le programme python Programme_Principale_MathisVEBER
